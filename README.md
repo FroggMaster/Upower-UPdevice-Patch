@@ -1,6 +1,6 @@
 # Upower UPdevice.c Patch
 
-Upower patch to disable the lower power notification for wireless mice.
+Upower patch to disable the lower power notification for wireless mice in Manjaro Linux
 
 ## Installation
 
